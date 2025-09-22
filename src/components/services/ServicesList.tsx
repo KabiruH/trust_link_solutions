@@ -1,5 +1,5 @@
 //components/services/servicesList
-import { Home, Users, Truck, Settings, Wrench, Shield, Camera, FileText } from 'lucide-react'
+import { Home, Users, Truck, Settings, Wrench, Shield } from 'lucide-react'
 
 interface Service {
   icon: React.ReactElement
@@ -143,7 +143,7 @@ export default function ServicesList() {
 
               {/* Features */}
               <div className="mb-6">
-                <h4 className="font-semibold text-gray-900 mb-3">What's Included:</h4>
+                <h4 className="font-semibold text-gray-900 mb-3">What&apos;s Included:</h4>
                 <div className="grid md:grid-cols-2 gap-2">
                   {service.features.map((feature, featureIndex) => (
                     <div key={featureIndex} className="flex items-start gap-2">
@@ -175,7 +175,7 @@ export default function ServicesList() {
               Need a Custom Solution?
             </h3>
             <p className="text-blue-100 mb-6 max-w-2xl mx-auto">
-              Every client's needs are unique. We'll work with you to create a personalized service package that fits your specific requirements and budget.
+              Every client&apos;s needs are unique. We&apos;ll work with you to create a personalized service package that fits your specific requirements and budget.
             </p>
             <button className="bg-yellow-400 text-black px-8 py-4 rounded-lg text-lg font-semibold hover:bg-yellow-300 transition-colors">
               Discuss Custom Package

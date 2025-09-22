@@ -1,5 +1,5 @@
 //components/services/servicesHero
-import { ArrowRight, MapPin, Phone } from 'lucide-react'
+import { MapPin, Phone } from 'lucide-react'
 
 export default function ServicesHero() {
   return (

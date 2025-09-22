@@ -1,5 +1,4 @@
 //components/services/ServiceCTA
-
 import { ArrowRight, Phone, Mail, MessageCircle, Calendar } from 'lucide-react'
 
 export default function ServiceCTA() {
@@ -11,7 +10,7 @@ export default function ServiceCTA() {
             Ready to Get Started?
           </h2>
           <p className="text-xl md:text-2xl text-gray-200 max-w-4xl mx-auto mb-8">
-            Let's discuss your specific needs and create a customized service plan that gives you complete peace of mind about your Kenya interests.
+            Let&apos;s discuss your specific needs and create a customized service plan that gives you complete peace of mind about your Kenya interests.
           </p>
           
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 max-w-3xl mx-auto mb-8">

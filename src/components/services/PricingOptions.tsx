@@ -1,5 +1,4 @@
 //components/services/PricingOptions.tsx
-
 import { Check, Star, ArrowRight } from 'lucide-react'
 
 interface PricingPlan {
@@ -171,7 +170,7 @@ export default function PricingOptions() {
             Need a Custom Package?
           </h3>
           <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
-            Every client's situation is unique. Let's discuss your specific needs and create a tailored solution that fits your requirements and budget.
+            Every client&apos;s situation is unique. Let&apos;s discuss your specific needs and create a tailored solution that fits your requirements and budget.
           </p>
           <button className="bg-yellow-400 text-black px-8 py-4 rounded-lg text-lg font-semibold hover:bg-yellow-300 transition-colors inline-flex items-center gap-2">
             Schedule Custom Consultation
