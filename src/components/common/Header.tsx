@@ -12,6 +12,7 @@ export default function Header() {
     { name: 'How It Works', href: '/how-it-works' },
     { name: 'About', href: '/about' },
     { name: 'Testimonials', href: '/testimonials' },
+    { name: 'Blogs', href: '/blogs' },
     { name: 'Contact', href: '/contact' },
   ]
 
