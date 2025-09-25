@@ -34,7 +34,7 @@ export default function PricingOptions() {
     {
       name: "Monthly Retainer",
       description: "Ideal for ongoing property management and regular support",
-      price: "KES 25,000",
+      price: "KES 36,000",
       period: "per month",
       features: [
         "Dedicated account manager",
