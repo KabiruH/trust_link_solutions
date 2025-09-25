@@ -42,7 +42,7 @@ export default function Footer(): JSX.Element {
               <div className="flex items-center gap-3">
                 <Phone className="h-5 w-5 text-yellow-400" />
                 <div>
-                  <div className="text-gray-300">+254 XXX XXX XXX</div>
+                  <div className="text-gray-300">+254-700-095-477</div>
                   <div className="text-sm text-gray-400">Kenya Time (EAT)</div>
                 </div>
               </div>

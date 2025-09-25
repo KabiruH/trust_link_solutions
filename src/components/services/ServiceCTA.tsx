@@ -121,7 +121,7 @@ export default function ServiceCTA() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-sm">
             <div className="flex items-center gap-2">
               <Phone className="h-4 w-4 text-yellow-400" />
-              <span>+254 XXX XXX XXX</span>
+              <span>+254-700-095-477</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-yellow-400" />

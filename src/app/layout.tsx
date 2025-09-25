@@ -145,7 +145,7 @@ export default function RootLayout({
               "name": "TrustLink Solutions",
               "description": "Professional on-the-ground support for diaspora families managing property, projects, and family needs in Kenya.",
               "url": "https://trustlinksolutions.co.ke",
-              "telephone": "+254-XXX-XXX-XXX",
+              "telephone": "+254-700-095-477",
               "email": "info@trustlinksolutions.co.ke",
               "address": {
                 "@type": "PostalAddress",
